@@ -2,7 +2,6 @@ function truncateString(stringarg,numarg){
   let stringLength = stringarg.length;
   if (stringLength > numarg){
     let newString = stringarg.substring(0, numarg);
-    console.log(newString);
     return newString + "...";
   }
   else {
