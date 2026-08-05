@@ -5,3 +5,6 @@ My solutions to the JavaScript exercises from the freeCodeCamp curriculum.
 ## Completed
 
 - ✅ Email Masker
+- ✅ Card Counting Assistant
+- ✅ Leap Year Calendar
+- ✅ Truncate String
