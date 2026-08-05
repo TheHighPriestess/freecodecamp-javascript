@@ -8,3 +8,4 @@ My solutions to the JavaScript exercises from the freeCodeCamp curriculum.
 - ✅ Card Counting Assistant
 - ✅ Leap Year Calendar
 - ✅ Truncate String
+- ✅ Confirm the Ending
