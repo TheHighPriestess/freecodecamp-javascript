@@ -10,3 +10,4 @@ My solutions to the JavaScript exercises from the freeCodeCamp curriculum.
 - ✅ Truncate String
 - ✅ Confirm the Ending
 - ✅ Build a Lunch Picker
+- ✅ Golf Score Translator
